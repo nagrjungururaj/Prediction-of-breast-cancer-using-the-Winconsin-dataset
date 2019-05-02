@@ -23,7 +23,7 @@ Model is trained and tested for 2 cases:
 1. Test accuracy: 0.8571428543045407
 2. F1-score: 0.8983050847457628
 
-2nd case: Without feature selected data as input to FFNN \\
+2nd case: Without feature selected data as input to FFNN 
 
 1. Test accuracy: 0.8809523809523809
 2. F1-score: 0.9152542372881356
