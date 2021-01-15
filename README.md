@@ -36,6 +36,3 @@ numpy, sklearn, keras(with tensorflow backend), seaborn, matplotlib, pandas
 2. Extract the zipped folder to the local system
 3. Run predict_cancer.py to train the dataset with 120 epochs and test on the fly.
 4. 'trained_models' consists the trained models for both cases for 120 epochs
-
-
-# Learning GIT!
